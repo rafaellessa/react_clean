@@ -30,6 +30,7 @@
         "import/export": "off",
         "react/jsx-uses-react": "error",
         "react/jsx-uses-vars": "error",
-        "no-undef":"off"
+        "no-undef":"off",
+        "no-useless-constructor":"off"
       }
 }
